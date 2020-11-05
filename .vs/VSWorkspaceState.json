@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\App",
+    "\\src\\components\\ErrorPage",
+    "\\src\\components\\Firebase",
+    "\\src\\components\\Landing",
+    "\\src\\components\\Login",
+    "\\src\\components\\Signup",
+    "\\src\\components\\Welcome"
+  ],
+  "SelectedNode": "\\src\\components\\Login\\index.js",
+  "PreviewInSolutionExplorer": false
+}
